@@ -6,7 +6,12 @@ This is the basic CRUD application with using Python // Django that includes use
 
 ```
 python
-cd django_bookapp
+
+cd ./bookapp
+pip3 install requirements
+virtualenv venv
+source venv/bin/activate
+cd ./django_bookapp
 source venv/bin/activate
 python3 ./manage.py runserver
 ```
