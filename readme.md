@@ -1,6 +1,6 @@
 ## Python // Django CRUD Application
 
-This is the basic CRUD application with using Python // Django that includes user CRUD endpoints and CRUD endpoints for users to add their favorite books.
+This is the basic CRUD application with using Python // Django that includes user creation and CRUD endpoints for users to add their favorite books.
 
 **Info**
 
