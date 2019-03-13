@@ -4,6 +4,9 @@ This is the basic CRUD application with using Python // Django that includes use
 
 **Info**
 
-`cd django_bookapp`
-`source venv/bin/activate`
-`python3 ./manage.py runserver`
+```
+python
+cd django_bookapp
+source venv/bin/activate
+python3 ./manage.py runserver
+```
