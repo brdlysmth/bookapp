@@ -4,4 +4,4 @@ This is the basic CRUD application with using Python // Django that includes use
 
 **Endpoint Info**
 
-Start the virtual environment in bookapp, then step into django_bookapp to use python
+Start the virtual environment in bookapp, then step into django_bookapp
