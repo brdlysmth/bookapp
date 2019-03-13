@@ -14,3 +14,7 @@ source venv/bin/activate
 cd ./django_bookapp
 python3 ./manage.py runserver
 ```
+
+**Additional**
+once running, front end at localhost:8000/books 
+included postman collection for API request examples 
