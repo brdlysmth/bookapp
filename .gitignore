@@ -1,0 +1,17 @@
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+n2env
+/n2env
+n2env/*
+n2env/
+.idea
+.idea/*
+idea/
+idea/*
+venv/*
+venv/
+venv
+books/__pycache__/*
+django_bookapp/django_bookapp/__pycache__/*
+*.pyc

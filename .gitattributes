@@ -1,0 +1,8 @@
+*.py text
+*.html text
+*.css text
+
+.gitattributes text
+
+*.py diff=python
+*.html diff=html
