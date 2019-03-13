@@ -2,7 +2,7 @@
 
 This is the basic CRUD application with using Python // Django that includes user creation and CRUD endpoints for users to add their favorite books.
 
-**Info**
+##**Info**
 
 ```
 python
@@ -15,6 +15,6 @@ cd ./django_bookapp
 python3 ./manage.py runserver
 ```
 
-**Additional**
+##**Additional**
 once running, front end at localhost:8000/books 
 included postman collection for API request examples 
