@@ -2,6 +2,8 @@
 
 This is the basic CRUD application with using Python // Django that includes user CRUD endpoints and CRUD endpoints for users to add their favorite books.
 
-**Endpoint Info**
+**Info**
 
-Start the virtual environment in bookapp, then step into django_bookapp
+`cd django_bookapp`
+`source venv/bin/activate`
+`python3 ./manage.py runserver`
